@@ -20,7 +20,7 @@ const config = {
         banner: {
             show: true,
             text: 'booWeb 静态网站主题已竣工，等待发布',
-            link: 'https://apps.apple.com/your-app-link',
+            link: 'https://github.com/JoePrincesu/booWeb',
             icon: 'ri-arrow-right-line',
             actionText: '立即查看'
         },
@@ -34,7 +34,7 @@ const config = {
         copyrigh: 'Copyright © 2024-2025 一席布衣 保留所有权利。',
         theme: {
             text: 'booWeb',
-            href: 'https://www.booboo.run'
+            href: 'https://github.com/JoePrincesu/booWeb'
         },
         icp: {
             text: '闽ICP备2024081390号',
